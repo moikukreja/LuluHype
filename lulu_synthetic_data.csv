@@ -1,0 +1,101 @@
+Customer_Age,Gender,Location,Category,Transaction_Amount,Transaction_Date,Loyalty_Status,Points_Earned,Ad_Budget
+56,Female,Dubai,Grocery,1933.98,2023-01-01,Gold,445,5000
+46,Female,Sharjah,Electronics,1927.97,2023-01-02,Platinum,388,15000
+32,Male,Abu Dhabi,Electronics,1708.96,2023-01-03,Gold,478,15000
+60,Male,Dubai,Electronics,603.01,2023-01-04,Gold,493,5000
+25,Male,Dubai,Electronics,782.49,2023-01-05,Platinum,62,5000
+38,Male,Dubai,Clothing,1705.25,2023-01-06,Gold,160,2000
+56,Female,Sharjah,Clothing,647.51,2023-01-07,Silver,153,2000
+36,Male,Abu Dhabi,Electronics,355.6,2023-01-08,Silver,66,5000
+40,Male,Dubai,Grocery,1122.47,2023-01-09,Silver,48,5000
+28,Male,Ajman,Clothing,1873.59,2023-01-10,Platinum,118,8000
+28,Male,Dubai,Electronics,1398.14,2023-01-11,Gold,190,15000
+41,Male,Dubai,Clothing,1148.72,2023-01-12,Silver,51,2000
+53,Female,Sharjah,Clothing,212.41,2023-01-13,Platinum,195,8000
+57,Male,Sharjah,Grocery,1237.71,2023-01-14,Gold,432,3000
+41,Female,Abu Dhabi,Electronics,1980.31,2023-01-15,Platinum,407,5000
+20,Male,Ajman,Electronics,297.37,2023-01-16,Silver,232,5000
+39,Female,Sharjah,Grocery,1046.29,2023-01-17,Silver,131,5000
+19,Male,Dubai,Grocery,1757.2,2023-01-18,Silver,142,5000
+41,Male,Abu Dhabi,Electronics,1486.72,2023-01-19,Platinum,172,5000
+61,Female,Dubai,Electronics,1400.09,2023-01-20,Platinum,224,15000
+47,Female,Dubai,Grocery,1410.92,2023-01-21,Silver,230,3000
+55,Female,Sharjah,Clothing,731.79,2023-01-22,Platinum,244,8000
+19,Male,Abu Dhabi,Clothing,601.31,2023-01-23,Silver,340,8000
+38,Female,Ajman,Grocery,1622.54,2023-01-24,Silver,155,5000
+50,Male,Ajman,Clothing,1624.02,2023-01-25,Gold,248,2000
+29,Male,Sharjah,Grocery,1736.8,2023-01-26,Platinum,85,3000
+39,Female,Sharjah,Clothing,1828.22,2023-01-27,Silver,18,5000
+61,Female,Abu Dhabi,Clothing,1032.46,2023-01-28,Silver,83,2000
+42,Male,Ajman,Electronics,1013.0,2023-01-29,Platinum,451,5000
+44,Male,Ajman,Electronics,1600.62,2023-01-30,Gold,410,5000
+59,Female,Ajman,Clothing,1306.93,2023-01-31,Gold,262,8000
+45,Female,Dubai,Clothing,1409.89,2023-02-01,Silver,239,5000
+33,Female,Ajman,Electronics,1595.67,2023-02-02,Platinum,16,5000
+32,Male,Dubai,Electronics,1782.21,2023-02-03,Gold,183,5000
+64,Male,Abu Dhabi,Electronics,689.23,2023-02-04,Platinum,150,5000
+61,Male,Dubai,Grocery,763.65,2023-02-05,Platinum,177,3000
+20,Male,Abu Dhabi,Clothing,206.08,2023-02-06,Silver,179,5000
+54,Male,Ajman,Electronics,1164.99,2023-02-07,Gold,402,10000
+24,Male,Ajman,Clothing,91.17,2023-02-08,Silver,443,2000
+38,Female,Abu Dhabi,Grocery,941.88,2023-02-09,Gold,292,3000
+26,Male,Sharjah,Grocery,1094.44,2023-02-10,Gold,131,5000
+56,Male,Abu Dhabi,Electronics,587.35,2023-02-11,Gold,203,5000
+35,Male,Sharjah,Grocery,1189.85,2023-02-12,Gold,14,1000
+21,Female,Dubai,Clothing,80.39,2023-02-13,Gold,38,8000
+42,Male,Dubai,Electronics,93.95,2023-02-14,Platinum,174,15000
+31,Male,Dubai,Clothing,1648.75,2023-02-15,Silver,431,8000
+26,Female,Ajman,Clothing,733.18,2023-02-16,Platinum,348,2000
+43,Male,Dubai,Grocery,271.58,2023-02-17,Gold,145,5000
+19,Male,Sharjah,Grocery,1054.04,2023-02-18,Silver,374,5000
+37,Male,Dubai,Grocery,1544.59,2023-02-19,Gold,330,1000
+45,Male,Abu Dhabi,Grocery,447.33,2023-02-20,Silver,351,1000
+64,Male,Abu Dhabi,Grocery,1253.32,2023-02-21,Platinum,154,3000
+24,Female,Ajman,Electronics,188.99,2023-02-22,Silver,336,15000
+61,Female,Abu Dhabi,Clothing,122.33,2023-02-23,Silver,226,2000
+25,Female,Sharjah,Clothing,1072.08,2023-02-24,Silver,310,5000
+64,Male,Dubai,Clothing,1090.46,2023-02-25,Silver,141,2000
+52,Male,Ajman,Clothing,1282.11,2023-02-26,Silver,301,2000
+31,Male,Dubai,Grocery,1457.66,2023-02-27,Gold,79,5000
+34,Female,Dubai,Clothing,1952.19,2023-02-28,Silver,261,8000
+53,Male,Sharjah,Electronics,1042.27,2023-03-01,Silver,424,5000
+57,Male,Abu Dhabi,Electronics,659.45,2023-03-02,Platinum,284,10000
+21,Female,Abu Dhabi,Clothing,1594.47,2023-03-03,Silver,454,5000
+19,Male,Dubai,Clothing,556.25,2023-03-04,Platinum,373,5000
+23,Female,Ajman,Electronics,889.16,2023-03-05,Gold,191,15000
+59,Female,Abu Dhabi,Electronics,175.34,2023-03-06,Silver,176,5000
+21,Female,Ajman,Grocery,70.19,2023-03-07,Platinum,100,3000
+46,Male,Abu Dhabi,Electronics,1926.04,2023-03-08,Platinum,211,5000
+35,Male,Ajman,Grocery,1675.24,2023-03-09,Gold,355,5000
+43,Male,Sharjah,Grocery,1398.03,2023-03-10,Silver,28,3000
+61,Male,Ajman,Grocery,829.73,2023-03-11,Silver,48,1000
+51,Male,Sharjah,Grocery,363.12,2023-03-12,Platinum,135,5000
+27,Male,Sharjah,Grocery,329.75,2023-03-13,Silver,460,5000
+53,Male,Ajman,Clothing,515.48,2023-03-14,Platinum,182,2000
+31,Female,Sharjah,Electronics,1107.47,2023-03-15,Silver,150,10000
+48,Male,Dubai,Grocery,1434.9,2023-03-16,Platinum,251,3000
+32,Female,Sharjah,Electronics,1327.19,2023-03-17,Silver,229,5000
+25,Male,Abu Dhabi,Electronics,574.27,2023-03-18,Gold,135,5000
+31,Male,Ajman,Grocery,1910.63,2023-03-19,Silver,67,5000
+40,Male,Dubai,Clothing,1481.04,2023-03-20,Silver,157,2000
+57,Female,Ajman,Grocery,1117.62,2023-03-21,Gold,485,5000
+38,Female,Abu Dhabi,Clothing,1231.21,2023-03-22,Silver,465,2000
+33,Female,Abu Dhabi,Electronics,850.81,2023-03-23,Gold,326,10000
+62,Female,Abu Dhabi,Clothing,510.51,2023-03-24,Silver,392,8000
+35,Male,Sharjah,Clothing,724.83,2023-03-25,Platinum,370,5000
+64,Female,Sharjah,Clothing,1520.54,2023-03-26,Platinum,432,5000
+41,Male,Ajman,Electronics,48.5,2023-03-27,Silver,10,15000
+43,Male,Ajman,Electronics,249.82,2023-03-28,Silver,396,10000
+42,Female,Dubai,Clothing,111.09,2023-03-29,Silver,470,5000
+62,Female,Dubai,Clothing,100.64,2023-03-30,Platinum,357,8000
+58,Female,Ajman,Grocery,1713.81,2023-03-31,Silver,199,1000
+46,Female,Sharjah,Clothing,1413.24,2023-04-01,Platinum,200,2000
+32,Female,Abu Dhabi,Grocery,958.86,2023-04-02,Gold,378,5000
+62,Female,Ajman,Clothing,213.71,2023-04-03,Platinum,418,8000
+18,Female,Dubai,Grocery,993.4,2023-04-04,Platinum,321,1000
+42,Female,Sharjah,Electronics,957.47,2023-04-05,Gold,426,10000
+24,Male,Ajman,Clothing,362.94,2023-04-06,Platinum,431,8000
+26,Female,Ajman,Clothing,879.03,2023-04-07,Silver,126,8000
+41,Female,Sharjah,Clothing,809.04,2023-04-08,Silver,143,8000
+18,Male,Ajman,Clothing,1239.38,2023-04-09,Platinum,67,8000
+61,Female,Sharjah,Grocery,1277.49,2023-04-10,Silver,53,3000
